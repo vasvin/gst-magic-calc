@@ -46,7 +46,7 @@ const GstCalculator = () => {
             <Calculator className="w-8 h-8 text-primary-foreground" />
           </div>
           <h1 className="text-4xl font-bold text-foreground mb-4">
-            GST MRP Calculator
+            Cycle World Sonipat
           </h1>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
             Calculate new Maximum Retail Price (MRP) when GST rates change. 
